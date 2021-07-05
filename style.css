@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: #ebf8ff;
+}
+.navbar{
+    display: flex;
+    background-color: blue;
+}
+li{
+    display: inline-block;
+}
+h2{
+    font-size: 40px;
+}
+#extra-color{
+    color: #0897f8;
+}
+.flex-area{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width-area{
+    width: 50%;
+    margin-left: 30px;   
+}
+img{
+    width: 90%;
+}
+.writing-area{
+    padding-top: 80px;
+    padding-left: 100px
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( #13bafb, #0796f7);
+    color: white;
+    padding: 8px 20px;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.about-me-area{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    
+}
+.writing-area2{
+    padding-top: 80px;
+    
+}
+.box{
+
+    box-shadow: 10px 10px 40px grey;
+    margin-right: 4%;
+    margin-left: 60px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.recipe-pic{
+    width:270px;
+    height: 200px;
+    border-radius: 15px;
+}
