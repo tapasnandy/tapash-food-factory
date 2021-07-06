@@ -80,11 +80,6 @@ img{
 h3{
     text-align: center;
 }
-.footer{
-    padding-top: 10px;
-    padding-bottom: 20px;
-    background-color: black;
-}
 #subscribe-area{
     width: 500px;
     clear: both;
@@ -95,4 +90,10 @@ input{
     margin-bottom: 20px;  
     width: 100%;
     clear: both;
+}
+
+.footer{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: black;
 }
