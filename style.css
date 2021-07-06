@@ -61,3 +61,13 @@ img{
     height: 200px;
     border-radius: 15px;
 }
+#footer-p, h4{
+    text-align: center;
+    color: white;
+
+}
+.footer{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: black;
+}
