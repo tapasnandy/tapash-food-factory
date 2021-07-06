@@ -5,10 +5,26 @@ body{
 }
 .navbar{
     display: flex;
-    background-color: blue;
+    background-color: #13b8fb;
 }
 li{
     display: inline-block;
+    margin-left: 50px;
+
+}
+ul{
+    padding-left: 180px;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+#nav-logo{
+    margin-left: 5px;
+    font-weight: 700;
+    border: 1px solid white;
+    padding: 3px;
 }
 h2{
     font-size: 40px;
@@ -61,10 +77,8 @@ img{
     height: 200px;
     border-radius: 15px;
 }
-#footer-p, h3{
+h3{
     text-align: center;
-    color: white;
-
 }
 .footer{
     padding-top: 10px;
