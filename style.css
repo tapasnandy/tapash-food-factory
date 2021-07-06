@@ -85,3 +85,14 @@ h3{
     padding-bottom: 20px;
     background-color: black;
 }
+#subscribe-area{
+    width: 500px;
+    clear: both;
+    margin-left: 350px;
+    margin-bottom:60px;
+}
+input{
+    margin-bottom: 20px;  
+    width: 100%;
+    clear: both;
+}
