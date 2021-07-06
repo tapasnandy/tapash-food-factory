@@ -82,14 +82,12 @@ h3{
 }
 #subscribe-area{
     width: 500px;
-    clear: both;
     margin-left: 350px;
     margin-bottom:60px;
 }
 input{
     margin-bottom: 20px;  
     width: 100%;
-    clear: both;
 }
 
 .footer{
